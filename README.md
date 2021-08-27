@@ -18,7 +18,7 @@
             <td>Music App</td>
             <td><a href="https://github.com/hasan-furkan/music-app" target="_blank">Repo details</a></td>
             <td><a href="https://hasan-furkan.github.io/music-app/" target="_blank">Click here to see the project</a></td>
-            <td><img style="width:500px;" src="" alt="html" height=130></td> 
+            <td><img style="width:500px;" src="./images/music-app" alt="html" height=130></td> 
         </tr>
         <tr>
             <td>Light Box Slider Gallery</td>
