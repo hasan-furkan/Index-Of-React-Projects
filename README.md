@@ -50,5 +50,11 @@
             <td><a href="https://netflix-clone-hasan.herokuapp.com/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="./images/netflix-clone.png" alt="html" height=130></td> 
         </tr>
+      <tr>
+            <td>Fire Contact</td>
+            <td><a href="https://github.com/hasan-furkan/fire-contact" target="_blank">Repo details</a></td>
+            <td><a href="https://fire-contact-hasan.herokuapp.com/" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="./images/fire-contact.png" alt="html" height=130></td> 
+        </tr>
 </tbody>
 </table>
