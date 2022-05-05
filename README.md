@@ -38,12 +38,6 @@
             <td><a href="https://recipe-app-hasan.herokuapp.com/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="./images/recipe-app.png" alt="html" height=130></td> 
         </tr>
-        <tr>
-            <td>Netflix Clone</td>
-            <td><a href="https://github.com/hasan-furkan/netflix-clone" target="_blank">Repo details</a></td>
-            <td><a href="https://netflix-clone-hasan.herokuapp.com/" target="_blank">Click here to see the project</a></td>
-            <td><img style="width:500px;" src="./images/netflix-clone.png" alt="html" height=130></td> 
-        </tr>
       <tr>
             <td>Fire Contact</td>
             <td><a href="https://github.com/hasan-furkan/fire-contact" target="_blank">Repo details</a></td>
